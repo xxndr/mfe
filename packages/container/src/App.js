@@ -1,7 +1,6 @@
 import React from "react";
 import MarkettingApp from "./components/MarkettingApp";
 
-console.log('hi')
 
 export default () => {
   return (
